@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Venkatesh A,1st year Computer Science student at NIT-Trichy,India 
+- 👋 Hi, I’m Venkatesh A,2nd year Computer Science student @ NIT-Trichy,India and Developer @ Delta-Force-NITT
 - 👀 I’m interested in Web-dev and CP
 - 🌱 I’m currently learning Web-dev
 - 📫 How to reach me? blackyvenky21@gmail.com
