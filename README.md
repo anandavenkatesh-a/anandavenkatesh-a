@@ -1,3 +1,3 @@
 - 👋 Hi, I’m a 3rd year Computer Science student @ NIT-Trichy,India and Developer @ Delta-Force-NITT
-- 👀 I’m interested in Web-dev and CP
+- 👀 I’m interested in AIML,Full stack development and Competitive programming
 - 📫 How to reach me?
