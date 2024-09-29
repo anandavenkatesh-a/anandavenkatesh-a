@@ -1,3 +1,3 @@
-- 👋 Hi, I’m a 3rd year Computer Science student @ NIT-Trichy,India and Developer @ Vortex-NITT,India
+- 👋 Hi, I’m a 4th year Computer Science student @ NIT-Trichy,India and Developer @ Vortex-NITT,India
 - 👀 I’m interested in AIML,Full stack development and Competitive programming
 - 📫 How to reach me?
